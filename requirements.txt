@@ -1,0 +1,12 @@
+requests
+bs4
+lxml
+pandas
+numpy
+openai
+scikit-learn
+accelerate
+transformers
+datasets
+evaluate
+seqeval
